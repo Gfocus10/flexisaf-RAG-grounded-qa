@@ -1,0 +1,308 @@
+[
+    {
+        "id": "q01",
+        "type": "answerable",
+        "question": "What is the minimum class attendance needed to qualify to sit for semester examinations at Ahmadu Bello University?",
+        "expected_behavior": "answer",
+        "expected_answer": "At least 75% attendance in classes, tutorials, laboratories, clinics, practicals and similar activities.",
+        "expected_sources": [
+            {
+                "filename": "abu_examination_regulations_2023.pdf",
+                "page": 16
+            },
+            {
+                "filename": "abu_student_handbook_2023_2024.pdf",
+                "page": 98
+            }
+        ]
+    },
+    {
+        "id": "q02",
+        "type": "answerable",
+        "question": "How much attendance must a clinical-year student in BUK's College of Health Sciences have?",
+        "expected_behavior": "answer",
+        "expected_answer": "At least 85% attendance.",
+        "expected_sources": [
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 31
+            }
+        ]
+    },
+    {
+        "id": "q03",
+        "type": "answerable",
+        "question": "Can students cook in their hostel rooms at Nnamdi Azikiwe University?",
+        "expected_behavior": "answer",
+        "expected_answer": "No. Cooking in rooms is prohibited except in designated areas, where available.",
+        "expected_sources": [
+            {
+                "filename": "unizik_hostel_rules.pdf",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "id": "q04",
+        "type": "answerable",
+        "question": "Are visitors allowed to stay overnight in the UNIZIK hostels?",
+        "expected_behavior": "answer",
+        "expected_answer": "No. Overnight stays by visitors are prohibited unless expressly authorized.",
+        "expected_sources": [
+            {
+                "filename": "unizik_hostel_rules.pdf",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "id": "q05",
+        "type": "answerable",
+        "question": "How many questions must a candidate attempt in the 2026 UTME and how long is the examination?",
+        "expected_behavior": "answer",
+        "expected_answer": "180 questions in total (60 for one subject and 40 each for the other three), and the duration is two hours.",
+        "expected_sources": [
+            {
+                "filename": "jamb_utme_manual_2026.pdf",
+                "page": 8
+            }
+        ]
+    },
+    {
+        "id": "q06",
+        "type": "answerable",
+        "question": "What is the recommended minimum RAM for centre systems in the 2026 UTME manual, and how does it differ from the 2025 manual?",
+        "expected_behavior": "answer",
+        "expected_answer": "The 2026 manual recommends a minimum of 4GB; the 2025 manual recommended 2GB.",
+        "expected_sources": [
+            {
+                "filename": "jamb_utme_manual_2026.pdf",
+                "page": 39
+            },
+            {
+                "filename": "jamb_utme_manual_2025.pdf",
+                "page": 39
+            }
+        ]
+    },
+    {
+        "id": "q07",
+        "type": "answerable",
+        "question": "What is the minimum duration of a full-time academic master's degree programme at the University of Ilorin?",
+        "expected_behavior": "answer",
+        "expected_answer": "Eighteen months (the maximum is twenty-four months).",
+        "expected_sources": [
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 26
+            }
+        ]
+    },
+    {
+        "id": "q08",
+        "type": "answerable",
+        "question": "What is the minimum pass mark in any postgraduate course at the University of Ilorin?",
+        "expected_behavior": "answer",
+        "expected_answer": "50%.",
+        "expected_sources": [
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 28
+            },
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 32
+            }
+        ]
+    },
+    {
+        "id": "q09",
+        "type": "answerable",
+        "question": "At NOUN, what score range earns a grade B and how many grade points is it worth?",
+        "expected_behavior": "answer",
+        "expected_answer": "60.0% to 69.9% earns a B (Very Good), worth 4 grade points.",
+        "expected_sources": [
+            {
+                "filename": "noun_ist_department_handbook_2026.pdf",
+                "page": 36
+            }
+        ]
+    },
+    {
+        "id": "q10",
+        "type": "answerable",
+        "question": "How much does Ahmadu Bello University charge for collecting a local academic transcript?",
+        "expected_behavior": "answer",
+        "expected_answer": "N10,000 for a local transcript (N45,000 for an international transcript).",
+        "expected_sources": [
+            {
+                "filename": "abu_student_handbook_2023_2024.pdf",
+                "page": 111
+            }
+        ]
+    },
+    {
+        "id": "q11",
+        "type": "ambiguous",
+        "question": "What is the pass mark for a course?",
+        "expected_behavior": "clarify",
+        "expected_answer": "ABU: 40% for a classified degree and 50% for an unclassified degree. BUK: the main text of the 2018 regulations says 45%, while the preface says the pass mark was lowered from 45% to 40%. UNILORIN postgraduate: 50%. NOUN: grade E (Pass) starts at 40.0%.",
+        "grading_note": "Good: asks which university, or lists each with citations. Bad: gives one number as if it applied everywhere.",
+        "expected_sources": [
+            {
+                "filename": "abu_examination_regulations_2023.pdf",
+                "page": 41
+            },
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 46
+            },
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 9
+            },
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 28
+            },
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 32
+            },
+            {
+                "filename": "noun_ist_department_handbook_2026.pdf",
+                "page": 36
+            }
+        ]
+    },
+    {
+        "id": "q12",
+        "type": "ambiguous",
+        "question": "What attendance do I need to be allowed to write exams?",
+        "expected_behavior": "clarify",
+        "expected_answer": "ABU: at least 75% attendance. BUK: at least a 75% attendance record (85% for clinical years). UNIZIK: a minimum attendance of 75% is compulsory. UNILORIN postgraduate: at least 75% of the total period of formal instruction.",
+        "grading_note": "Good: asks which university, or lists each with citations. Bad: gives one number as if it applied everywhere.",
+        "expected_sources": [
+            {
+                "filename": "abu_examination_regulations_2023.pdf",
+                "page": 16
+            },
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 17
+            },
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 31
+            },
+            {
+                "filename": "unizik_general_academic_regulations.pdf",
+                "page": 35
+            },
+            {
+                "filename": "unilorin_postgraduate_handbook.pdf",
+                "page": 32
+            }
+        ]
+    },
+    {
+        "id": "q13",
+        "type": "ambiguous",
+        "question": "What CGPA puts a student on academic probation?",
+        "expected_behavior": "clarify",
+        "expected_answer": "UNIZIK: a CGPA between 0.60 and 0.99. BUK: a CGPA of less than 1.00. ABU: a CGPA below 1.00 for classified degrees or below 2.40 for unclassified degrees, for two consecutive semesters.",
+        "grading_note": "Good: asks which university, or lists each with citations. Bad: gives one range as if it applied everywhere.",
+        "expected_sources": [
+            {
+                "filename": "unizik_general_academic_regulations.pdf",
+                "page": 40
+            },
+            {
+                "filename": "buk_general_exam_academic_regulations_2018.pdf",
+                "page": 14
+            },
+            {
+                "filename": "abu_examination_regulations_2023.pdf",
+                "page": 19
+            }
+        ]
+    },
+    {
+        "id": "q14",
+        "type": "unanswerable",
+        "question": "Who won the 2022 FIFA World Cup?",
+        "expected_behavior": "refuse",
+        "expected_answer": "No answer in the documents.",
+        "grading_note": "Good: replies 'not enough information in the provided sources' with no citation and no answer from general knowledge.",
+        "expected_sources": []
+    },
+    {
+        "id": "q15",
+        "type": "unanswerable",
+        "question": "How much is the hostel accommodation fee at Nnamdi Azikiwe University?",
+        "expected_behavior": "refuse",
+        "expected_answer": "The hostel rules mention payment before occupancy but give no amount.",
+        "grading_note": "Good: says the sources do not state the fee. Bad: invents an amount.",
+        "expected_sources": []
+    },
+    {
+        "id": "q16",
+        "type": "unanswerable",
+        "question": "What is the tuition fee for postgraduate students at the University of Ilorin?",
+        "expected_behavior": "refuse",
+        "expected_answer": "The handbook says tuition fees are paid online but gives no amount.",
+        "grading_note": "Good: says the sources do not state the fee. Bad: invents an amount.",
+        "expected_sources": []
+    },
+    {
+        "id": "q17",
+        "type": "unanswerable",
+        "question": "What is the UTME registration fee for 2027?",
+        "expected_behavior": "refuse",
+        "expected_answer": "The documents cover the 2025 and 2026 UTME only.",
+        "grading_note": "Good: says there is no 2027 information, and may mention the 2026 fees with a citation. Bad: states a 2027 fee.",
+        "expected_sources": []
+    },
+    {
+        "id": "q18",
+        "type": "misleading",
+        "question": "Why does Ahmadu Bello University require 90% attendance to sit semester examinations?",
+        "expected_behavior": "correct_premise",
+        "expected_answer": "ABU requires at least 75% attendance, not 90%.",
+        "grading_note": "Good: corrects the wrong number with a citation. Bad: explains a 90% rule.",
+        "expected_sources": [
+            {
+                "filename": "abu_examination_regulations_2023.pdf",
+                "page": 16
+            }
+        ]
+    },
+    {
+        "id": "q19",
+        "type": "misleading",
+        "question": "Why did JAMB extend the 2026 UTME duration to three hours?",
+        "expected_behavior": "correct_premise",
+        "expected_answer": "The 2026 UTME lasts two hours, and the manual says the duration cannot be altered under any circumstance.",
+        "grading_note": "Good: corrects the premise with a citation. Bad: explains an extension to three hours.",
+        "expected_sources": [
+            {
+                "filename": "jamb_utme_manual_2026.pdf",
+                "page": 8
+            }
+        ]
+    },
+    {
+        "id": "q20",
+        "type": "misleading",
+        "question": "Which cooking appliances does UNIZIK approve for use inside hostel rooms?",
+        "expected_behavior": "correct_premise",
+        "expected_answer": "Cooking in rooms is prohibited except in designated areas, where available.",
+        "grading_note": "Good: corrects the premise with a citation. Bad: lists approved appliances.",
+        "expected_sources": [
+            {
+                "filename": "unizik_hostel_rules.pdf",
+                "page": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the minimum class attendance needed to qualify to sit for semester examinations at Ahmadu Bello University?",
+    "expected_sources": [
+      {
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 16
+      },
+      {
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 98
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_examination_regulations_2023_p002_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 2,
+        "score": 0.6837,
+        "text": "ii AHMADU BELLO UNIVERSITY, ZARIA EXAMINATION MANAGEMENT/EXAMINATION REGULATIONS 2023"
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p115_c00",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 115,
+        "score": 0.6669,
+        "text": "ABU Undergraduate Student Handbook 2023/2024 Session 76 (ii)In any certificate course, a student who does not obtain an overall pass shall be permitted up to two supplementary examinations in any failed course – units. If he does not, then obtain an overall pass he shall be required to withdraw and the provision of paragraph47shallapply. 76. In order to determine which persons or bodies may exercise the various functions specifies in this Regulation, the provisions of subparagraph 47 shall apply, the term “certificate” being submitted for the term“diploma”. 77. The body which is to approve the examination results under paragraph 45 may at itsdiscretion appoint one or more member of the academic staff of Ahmadu Bello University, other than staff of or teaching in the unit"
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p017_c00",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 17,
+        "score": 0.6508,
+        "text": "6 Assessment of Performance 1.4 The overall process of assessment of a candidate’s performance in a course or programme may consist of formal examination, continuous assessment (as dened in 1.3(i) and (j)), or a combination of both, as governed by Part 12 of these Regulations. Admission into Examination 1.5 To be admitted into an examination, a student must have been registered for the relevant course, and must satisfy any University and Faculty requirements regarding attendance, performance of assignments connected with the course taught and payment of approved fees. 1.6 A student must have at least a 75% attendance record in order to be eligible to sit for an examination in a course. This provision can only be implemented if the Department is satised that proper"
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p016_c02",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 16,
+        "score": 0.6491,
+        "text": "concerning residency, fees or other matters. At least 75% attendance is required in all classes, tutorials, laboratories, clinics, field/studio practicals/theatre training etc. to qualify to sit for semester examinations. He /She must also have fulfilled any requirement regarding attendance at or satisfactory completion of any course -work, practicals, assignments, projects or other related matters. The standards ne cessary to satisfy these requirements shall be determined from time to time by the respective Faculty Board/PAB on the rec ommendation of the appropriate"
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "question": "How much attendance must a clinical-year student in BUK's College of Health Sciences have?",
+    "expected_sources": [
+      {
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 31
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p031_c04",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 31,
+        "score": 0.7262,
+        "text": "maximum duration following the recommendations of the College Academic Board. 18.17 CLINICAL EXAMINATIONS IN THE COLLEGE OF HEALTH SCIENCES (a) A student in the clinical years must have at-least 85% attendance. (b) The attendance eligibility criterion should be clearly spelt out to include attendance to laboratory and clinical activities like clinics, ward rounds and theatre sessions as well as completion of procedures outlined in the clinical log books."
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p009_c03",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 9,
+        "score": 0.5316,
+        "text": "Normal Maximum Doctor of Pharmacy 12 22 College of Health Sciences (a) Faculty of Clinical Sciences Nomenclature Duration (Semesters) Normal Maximum Bachelor of Medicine, Bachelor of Surgery 12 22 (b) Faculty of Allied Health Sciences Nomenclature Duration (Semesters) Normal Maximum Bachelor of Physiotherapy 10 18 Bachelor of Radiography 10 18 Bachelor of Medical Laboratory Sciences 10 18 Bachelor of Nursing Science 10 18 Doctor of Optometry 1012 1822"
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p031_c03",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 31,
+        "score": 0.5312,
+        "text": "presenting him/herself again for examinations in the next available examination. This, however, is subject to 18.16 (b), below. Maximum Duration of the Programmes 18.16 The maximum duration of the MBBS and BDS programmes is 11 years, subject to the following limitations. (a) Not more than ve years shall be spent at Pre-Clinical Level (Levels I to III). (b) Not more than six years shall be spent at Clinical Level (Levels IV to VI). (c) Not more than two years shall be spent at any of Levels II to VI. (d) However, in exceptional circumstances, the Senate may determine the outcome of the candidate withdrawn after exhausting the maximum duration following the recommendations of the College Academic Board. 18.17 CLINICAL EXAMINATIONS IN THE COLLEGE OF HEALTH SCIENCES"
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p029_c02",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 29,
+        "score": 0.5309,
+        "text": "registration conditions stipulated in sections 4.17 to 4.21; the requirements for minimum and maximum number of credits per semester and session; and regulations of the University, the Faculty, Department and programme. (e) The Add/Drop process (including returning the forms to all relevant units) must be completed within the period stipulated by the Senate. (f) A student can neither add nor drop a course when more than 25% of it has been covered. 55 (d) Where a student is required to repeat a Level that has been already repeated. (e) Failure to attend classes for a period which exceeds 30 consecutive days except upon approved medical or other grounds (Section 11.3) (f) Failure to complete the stated requirements for the award of a"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "question": "Can students cook in their hostel rooms at Nnamdi Azikiwe University?",
+    "expected_sources": [
+      {
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "unizik_hostel_rules_p001_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 1,
+        "score": 0.6869,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 1 All students residing in the hostels of Nnamdi Azikiwe University are expected to adhere strictly to established rules, policies, and procedures to ensure a safe, orderly, and conducive living environment for all. 1. General Guidelines  Hostel accommodation is strictly reserved for duly registered students who have been officially allocated bed spaces.  Students must occupy only their assigned rooms and bed spaces at all times.  Unauthorized occupants, squatting, or subletting of bed spaces are strictly prohibited.  Residents are responsible for the proper use, care, and maintenance of hostel facilities and properties.  Any damage to hostel property may attract disciplinary action or surcharge. 2."
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p002_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2,
+        "score": 0.6862,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 2 4. Safety and Security  Students should ensure the security of their personal belongings at all times.  Any suspicious activity must be reported immediately to hostel authorities or security personnel.  Tampering with electrical systems, fire safety equipment, or security devices is prohibited.  Residents must comply with visitor regulations, including approved visiting hours and proper identification of guests.  Use of open flames, candles, or flammable materials is not allowed. 5. Sanitation and Environmental Standards  Residents must maintain a clean and hygienic living environment at all times.  Waste must be disposed of in designated bins and areas."
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p003_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 3,
+        "score": 0.657,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 3 8. Visitors and Guest Policy  Visitors are only allowed during approved visiting hours.  All visitors must be properly identified and recorded where required.  Residents are fully responsible for the conduct of their guests.  Overnight stays by visitors are strictly prohibited unless expressly authorized. 9. Compliance and Enforcement  All residents must comply fully with these rules and policies.  Violations may result in disciplinary actions, including warnings, fines, suspension, or withdrawal of accommodation.  The University reserves the right to review and update hostel policies when necessary. 10. Additional Guidelines  Students are encouraged to foster a spirit of cooperation, respect,"
+      },
+      {
+        "chunk_id": "udus_students_handbook_2019_2020_p109_c02",
+        "filename": "udus_students_handbook_2019_2020.pdf",
+        "page": 109,
+        "score": 0.645,
+        "text": "prohibited. vi. Cooking is not allowed inside the rooms. All cooking activities should be done in areas designated for that purpose. Contravention of this regulation shall attract ejection from the hostel and, if any damage has been done, the damaged proper ty of the University shall be repaired or replaced. vii. Contravention of the above or any other instruction of the Porter, Caretaker, Matron or Hall Administrator shall attract ejection from the hostel and replacement of any damaged property of the University."
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "question": "Are visitors allowed to stay overnight in the UNIZIK hostels?",
+    "expected_sources": [
+      {
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 3
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "unizik_hostel_rules_p003_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 3,
+        "score": 0.5758,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 3 8. Visitors and Guest Policy  Visitors are only allowed during approved visiting hours.  All visitors must be properly identified and recorded where required.  Residents are fully responsible for the conduct of their guests.  Overnight stays by visitors are strictly prohibited unless expressly authorized. 9. Compliance and Enforcement  All residents must comply fully with these rules and policies.  Violations may result in disciplinary actions, including warnings, fines, suspension, or withdrawal of accommodation.  The University reserves the right to review and update hostel policies when necessary. 10. Additional Guidelines  Students are encouraged to foster a spirit of cooperation, respect,"
+      },
+      {
+        "chunk_id": "udus_students_handbook_2019_2020_p086_c00",
+        "filename": "udus_students_handbook_2019_2020.pdf",
+        "page": 86,
+        "score": 0.5505,
+        "text": "UDU, Sokoto: Revised Students' Handbook (2020/2021 Academic Session) Page 66 (vii) Students and visitors may only be granted access into the campuses of the University after 10.00pm on proper identification. (viii) Visitors to the female hostels are not allowed to remain within the premises beyond 10.00pm. (ix) Students granted accommodation by the University in any of its Halls of Residence shall vacate the Halls at the last day of the session. Any overstay beyond the last day of the session without formal approval of the University, shall attract rustication for one semester or one session and loss of accommodation for the rest of the student's stay in the University. (x) All unauthorized vehicles and their owners should vacate the premises of the halls of residence before 10.00pm."
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p002_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2,
+        "score": 0.5319,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 2 4. Safety and Security  Students should ensure the security of their personal belongings at all times.  Any suspicious activity must be reported immediately to hostel authorities or security personnel.  Tampering with electrical systems, fire safety equipment, or security devices is prohibited.  Residents must comply with visitor regulations, including approved visiting hours and proper identification of guests.  Use of open flames, candles, or flammable materials is not allowed. 5. Sanitation and Environmental Standards  Residents must maintain a clean and hygienic living environment at all times.  Waste must be disposed of in designated bins and areas."
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p001_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 1,
+        "score": 0.5218,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 1 All students residing in the hostels of Nnamdi Azikiwe University are expected to adhere strictly to established rules, policies, and procedures to ensure a safe, orderly, and conducive living environment for all. 1. General Guidelines  Hostel accommodation is strictly reserved for duly registered students who have been officially allocated bed spaces.  Students must occupy only their assigned rooms and bed spaces at all times.  Unauthorized occupants, squatting, or subletting of bed spaces are strictly prohibited.  Residents are responsible for the proper use, care, and maintenance of hostel facilities and properties.  Any damage to hostel property may attract disciplinary action or surcharge. 2."
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "question": "How many questions must a candidate attempt in the 2026 UTME and how long is the examination?",
+    "expected_sources": [
+      {
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 8
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "jamb_utme_manual_2026_p008_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 8,
+        "score": 0.7346,
+        "text": "2 Manual for Officials of 2026 UTME 1.2 Structure of the UTME The examination has two parts (I & II) (i) The structure of the examination consists of Multiple-Choice Questions on Use of English and three (3) other subjects of a candidate's choice. (ii) The Use of English is compulsory, it consists of sixty (60) multiple-choice questions and the other three (3) subjects have forty (40) multiple-choice questions each, all of which must be attempted. (iii) Each question has four (4) options, lettered A - D. (iv) Altogether, a candidate is to attempt one hundred and eighty (180) questions. 1.3 Duration of the UTME i. The duration of the examination is two (2) hours. ii. The duration cannot be altered under any circumstance. 1.4 Examination Sessions i."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p008_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 8,
+        "score": 0.7312,
+        "text": "2 Manual for Officials of 2025 UTME 1.2 Structure of the UTME The examination has two parts (I & II) (i) The structure of the examination consists of Multiple-Choice Questions on Use of English and three (3) other subjects of a candidate's choice. (ii) The Use of English is compulsory, it consists of sixty (60) multiple-choice questions and the other three (3) subjects have forty (40) multiple-choice questions each, all of which must be attempted. (iii) Each question has four (4) options, lettered A - D. (iv) Altogether, a candidate is to attempt one hundred and eighty (180) questions. 1.3 Duration of the UTME i. The duration of the examination is two (2) hours. ii. The duration cannot be altered under any circumstance. 1.4 Examination Sessions i."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2026_p006_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 6,
+        "score": 0.63,
+        "text": "Manual for Officials of 2026 UTME V PREFACE This Manual provides all necessary information required by officials engaged in the conduct of the Unified Tertiary Matriculation Examination (UTME). These include: 1. Guidelines and Checklist for Examination Officials 2. Sample of report forms to be completed by officials 3. Registration procedures for reference purposes 4. Likely issues, cause(s) and solution(s) in Computer Based Test (CBT) 5. Requirements for examination centres 6. Contacts of some UTME officials This edition of the manual has been segmented for ease of comprehension and reference to allow officials navigate through the document. It is therefore very important that all examination officials familiaris e themselves with the"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p006_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 6,
+        "score": 0.6296,
+        "text": "Manual for Officials of 2025 UTME V PREFACE This Manual provides all necessary information required by officials engaged in the conduct of the Unified Tertiary Matriculation Examination (UTME). These include: 1. Guidelines and Checklist for Examination Officials 2. Sample of report forms to be completed by officials 3. Registration procedures for reference purposes 4. Likely issues, cause(s) and solution(s) in Computer Based Test (CBT) 5. Requirements for examination centres 6. Contacts of some UTME officials. This edition of the manual has been segmented for ease of comprehension and reference to allow officials navigate through the document. It is therefore very important that all examination officials familiarise themselves with the"
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "question": "What is the recommended minimum RAM for centre systems in the 2026 UTME manual, and how does it differ from the 2025 manual?",
+    "expected_sources": [
+      {
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 39
+      },
+      {
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 39
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "jamb_utme_manual_2026_p039_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 39,
+        "score": 0.5679,
+        "text": "33 Manual for Officials of 2026 UTME 3.6 Centre Technical Staff The Centre Technical Staff is assigned by the Centre Administrator to perform technical duties and ensure the functionality of the centre equipment for the smooth conduct of the examination. He/she must be capable of resolving all technical issues that may arise during the conduct of the examination at the centre. Duties of the Centre Technical Staff The Centre Technical Staff should ensure that: i. The appropriate LAN cable is used for the connection of the centre terminals. ii. The equipment needed for the smooth conduct of the examination are functional. iii. The systems’ RAM is upgraded to the recommended minimum of 4GB capacity. iv. The correct static IP address is assigned to each terminal. v."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p039_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 39,
+        "score": 0.5502,
+        "text": "33 Manual for Officials of 2025 UTME 3.6 Centre Technical Staff The Centre Technical Staff is assigned by the Centre Administrator to perform technical duties and ensure the functionality of the centre equipment for the smooth conduct of the examination. He/she must be capable of resolving all technical issues that may arise during the conduct of the examination at the centre. Duties of the Centre Technical Staff The Centre Technical Staff should ensure that: i. the appropriate LAN cable is used for the connection of the centre terminals ii. the equipment needed for the smooth conduct of the examination are functional iii. the systems’ RAM is upgraded to the recommended minimum of 2GB capacity iv. the correct static IP address is assigned to each terminal v."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p082_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 82,
+        "score": 0.4915,
+        "text": "76 Manual for Officials of 2025 UTME"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p071_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 71,
+        "score": 0.4845,
+        "text": "65 Manual for Officials of 2025 UTME Fig 2B"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "question": "What is the minimum duration of a full-time academic master's degree programme at the University of Ilorin?",
+    "expected_sources": [
+      {
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 26
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p026_c02",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 26,
+        "score": 0.6742,
+        "text": "oftwenty-four(24)monthsandmaximumofthirty-six(36)months. MasterDegreeProgrammes i. The Full-time Academic Master Degree Programme shall run for a minimum durationofeighteen(18)monthsandmaximumoftwenty-four(24)months. ii. The Part-time Academic Master Degree Programme shall run for a minimum durationofthirty-six(36)monthsandmaximumofforty-eight(48)months. DoctorofPhilosophy(Ph.D.)DegreeProgrammes i. The Full-time Doctor of Philosophy Degree Programme shall run for a minimum durationofthirty-six(36)monthsandmaximumofsixty(60)months. ii. The Part-time Doctor of Philosophy Degree Programme shall run for a minimum durationofforty-eight(48)monthsandmaximumofseventy-two(72)months."
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p026_c01",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 26,
+        "score": 0.672,
+        "text": "afreshforanotheradmission. Students shall apply for extension through their Heads of Departments and Deans of their Faculties, who may give recommendations for the consideration of the applications. The Secretary of the Postgraduate School shall communicate to applicants the approval of their applications by the Board through a letter, which must accompany their final result wheneveritisprocessedtothePostgraduateSchool. PostgraduateDiploma i. The Full-time Postgraduate Diploma Programme shall run for a minimum duration oftwelve(12)monthsandmaximumoftwenty-four(24)months. ii. The Part-time Postgraduate Diploma Programme shall run for a minimum duration oftwenty-four(24)monthsandmaximumofthirty-six(36)months. MasterDegreeProgrammes i."
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p009_c01",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 9,
+        "score": 0.6348,
+        "text": "University of Ilorin. The handbook is a compendium which directs and guide both students and supervisorsonwhat,howwhenandwhereofpostgraduateprogrammesintheUniversity. Thishandbookisadouble-edgedswordthatpresentsalltheavailableapprovedmodeofoperations of the Postgraduate School in relation to postgraduate programs, including; generic time line, admission procedures, the rights of students and those of teachers and examinations both written and oral. The other edge presents guidelines for writing theses and dissertations and other guides toward timely completion of programmes. In the history of postgraduate school, University of Ilorin,thisisthefirsttimeacompendiumofthisnatureisdeveloped. The need for the book is in keeping with the best practice in institution of higher learning having"
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p005_c05",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 5,
+        "score": 0.617,
+        "text": "Bachelor of Science (Education/Agricultural Science) 8 12 Bachelor of Science (Education/Biology) 8 12 Bachelor of Science (Education/Chemistry) 8 12 (c) Kwara State College of Arabic and Islamic Legal Studies, Ilorin Nomenclature Duration (Semesters) Normal Maximum Bachelor of Arts (Arabic) 8 12 Bachelor of Arts (Islamic Studies) 8 12"
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "question": "What is the minimum pass mark in any postgraduate course at the University of Ilorin?",
+    "expected_sources": [
+      {
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 28
+      },
+      {
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p032_c02",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32,
+        "score": 0.7678,
+        "text": "Ilorin.(AppendixA). Examinations shall be done at the end of each semester in the academic calendar. Each course shall, therefore, normally be completed and examined at the end of the semester in whichitisoffered. Continuous Assessment shall be through essays, tests, term papers, tutorial exercises, quizzes and take-home assessments; and its scores shall not be more than 30% of the final marks for courses which are primarily theoretical. It could be 40% for courses that have practical elements. The total score obtainable for every course shall be 100%; comprising 30%(or40%)ofContinuousAssessmentand70%or60%forFinalExamination. The minimum Pass Mark in any course, and even in Dissertation, shall be 50%. Therefore,"
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p022_c01",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 22,
+        "score": 0.6576,
+        "text": "4.1 AdmissionRequirementsandProcedure In line with the NUC Benchmark for Minimum Academic Standard (BMAS), which was approvedbytheSenateoftheUniversityin2015,candidatesseekingadmissionintoanyPG programme at the University of Ilorin must fulfil the following general requirements in additiontothespecificrequirementsforspecificprogrammesinvariousDepartments: i. possess five (5) O/Level Credit pass in at least five subjects that must compulsorily include English Language and Mathematics irrespective of the course of study (Arts/HumanitiesorSciences); ii. NYSCdischarge/exemptioncertificateissuednotbeyondSeptember30thoftheyear itbears. 4.1.1 PostgraduateDiploma i. AtleastaThirdClassDegreeinarelatedfield ii. HND holders with a minimum of Upper Credit from recognised institutions"
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p032_c03",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32,
+        "score": 0.6564,
+        "text": "The minimum Pass Mark in any course, and even in Dissertation, shall be 50%. Therefore, any student who scores less than 50% in any course shall be deemed to have failed the course. In order to be eligible for examination in a particular course, a student shall have attendedaminimumof75%ofthetotalperiodofformalinstructionsafterfive(5)weeks."
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p028_c02",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 28,
+        "score": 0.648,
+        "text": "programmes in Nigerian universities, the approved codes for courses under the three levels ofPGprogrammesareasfollows; i. PostgraduateDiplomacoursesshallcarrythe700-codenumbersi.e.,700–799; ii. Masterdegreecoursesshallcarry800-codenumbersi.e.,800–899;and iii. Doctoraldegreecoursesshallcarry900-codenumbersi.e.,900–999. 7.2 Weighting All 800 and 900 level courses shall have between 1 and 4 credit units assigned to them, exceptdissertationandthesiswhichshallbe6creditunits. 7.3 GradingSystem Pass Mark and Grade Points: The minimum pass mark in any course/thesis at Postgraduate Level shall be 50%. Grading of courses shall be done by a combination of percentage marks and letter grades translated into a graduated system of Grade Point Equivalents (GPE)."
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "question": "At NOUN, what score range earns a grade B and how many grade points is it worth?",
+    "expected_sources": [
+      {
+        "filename": "noun_ist_department_handbook_2026.pdf",
+        "page": 36
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_examination_regulations_2023_p038_c02",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 38,
+        "score": 0.6102,
+        "text": "which are equivalent to 5,4,3,2, 1 and 0 Grades (GP), respectively for classified degrees. (b) For non-classified degrees, only letter grades A, B, and C corresponding to 5, 4 and 3 Grades Points are pass grades."
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p044_c03",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 44,
+        "score": 0.5838,
+        "text": "Grade Point Average (GPA) while the overall performance at the end of a session (and/or at any point in his study programme) will be reported by the Cumulative Grade Point Average (CGPA). (b)The classication of a degree shall be determined by the nal CGPA as shown below. Calculations of GPA and CGPA 12.12 (a) Letter Grades and Grade Points shall be derived from the actual percentage score obtained in a given course as follows: Percent Score Letter Grade Grade Point 70 – 100 A 5 60 – 69 B 4 50 – 59 C 3 45 – 49 D 2 40 – 44 E 1 00 – 39 F 0 Incomplete I - Absent ABS 0 (b) A Weighted Grade Point shall be determined for the performance in each course by multiplying the Grade Point obtained in the course by the Credit load of the course, except that all incomplete courses shall be ignored."
+      },
+      {
+        "chunk_id": "unizik_general_academic_regulations_p037_c02",
+        "filename": "unizik_general_academic_regulations.pdf",
+        "page": 37,
+        "score": 0.5788,
+        "text": "examinations are given whenever they are due. SECTION 4.6.6 – 4.8.2, 4.9(a)(vii) and 4.9(b) SHALL NOT APPLY TO THE FACULTY OF MEDICINE YET The mark scored in each course (continuous assessment score plus end-of- semester examination score) has an equivalent letter grade of F to A, and each letter grade has a corresponding numerical value of 0.00 to 5.00 called a GRADE POINT as in Table 4. 4.6.1 Grade Point(GP)"
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p115_c02",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 115,
+        "score": 0.5609,
+        "text": "70–100 A 3 2.50–3.49Distinction 60–69 B 2 1.40–2.49Credit 40–49 D 1 1.00–1.39Pass 1–30 F 0 <1.00 Fail Percentage Score Letter Grades Grade points CGPA Class of Dip."
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "How much does Ahmadu Bello University charge for collecting a local academic transcript?",
+    "expected_sources": [
+      {
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 111
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p040_c00",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 40,
+        "score": 0.5983,
+        "text": "ABU Undergraduate Student Handbook 2023/2024 Session 1 INTRODUCTION One of the largest Universities in Africa, Ahmadu Bello University has a worldwide reputation for excellence, especially as demonstrated by the outstanding qualities of its graduates who occupy leadership positions throughout Nigeria and in other parts of the world. The University has squarely stood up to the dreams of its founding fathers who expressed the hope some five decades ago that the tiny and young Institutewouldgrowtobecomeaworldcitadeloflearning. Zaria metropolis, the seat of the University, has itself a long tradition of learning dating back centuries. Zaria is today appropriately home to more than half a dozen institutions of higher learning and research, giving it a unique position throughout the Federation."
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p044_c02",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 44,
+        "score": 0.5874,
+        "text": "Many of the earlier Engineers and Architects in Nigeria had their education and training in this College. But it was in the area of Fine Art that the College most distinguished itself, creating a distinct and African form of art, known today internationally as the Zaria SchoolofArts. At its official founding in 1962, the Ahmadu Bello University had a student body of no more than three thousand enrolled in its various programs. Today, the student body is over fifty"
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p046_c00",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 46,
+        "score": 0.5634,
+        "text": "ABU Undergraduate Student Handbook 2023/2024 Session 7 The Ahmadu Bello University was taken over by the then Federal Military Government, and now enjoys the status of a FederalUniversity. In 1987, the year in which the University celebrated its 25th Anniversary, ABU had turned out to be the largest and the most extensive of all Universities in Sub-Saharan Africa. It covers a land area of about 7,000 hectares and embraces sixteen Faculties, a Postgraduate School and a Distance Learning Centre. There are also six Institutes, six specialised Centres, a DivisionofAgricultural Colleges, a School of Basic and Remedial Studies, a Demonstration Secondary School, a PrimarySchoolandExtensionandConsultancyServices."
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p044_c00",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 44,
+        "score": 0.559,
+        "text": "ABU Undergraduate Student Handbook 2023/2024 Session 5 HISTORICAL PERSPECTIVE Ahmadu Bello University belongs to the First-Generation Universities in Nigeria. Others in this category are the University of Ibadan, University of Nigeria, University of Lagos, and the former University Ife, Ile-Ife, now Obafemi Awolowo University. These universities are not only older academically but are in a class of their own, and the Ahmadu BelloUniversityevenmoreso. Under its founding father, Sir Ahmadu Bello, the university had a lucky start for he gave the young institution all the support it needed. He attracted to Zaria talented crop of academicsfromacrossNigeriaandotherpartsoftheworldthat gottheUniversitygoingonafoundationofexcellencewhichit has maintained to date."
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "What is the pass mark for a course?",
+    "expected_sources": [
+      {
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 9
+      },
+      {
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 28
+      },
+      {
+        "filename": "noun_ist_department_handbook_2026.pdf",
+        "page": 36
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p046_c05",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 46,
+        "score": 0.6664,
+        "text": "matter for agreement between the examiners for the course concerned. The mark for each course shall be expressed as a percentage. A fractional mark of 0.5% or above should be rounded up to the next whole number, and one less than 0.5% should be dropped. The pass mark shall be 45%. This provision does not apply to programmes with peculiarities as may be approved by Senate. (c) Where a student is unable to complete project in time for good cause, he shall be given a chance to complete the project after registration."
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p041_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 41,
+        "score": 0.63,
+        "text": "36 56. The mark for a course -unit shall be the mean of the marks for the continuous assessment and semester examinations weighted as determined under paragraph 54(b). In order to pass a course -unit a student must obtain at least the pass -mark, which shall be 40% for a classified degree and 50% for an unclassified degree. In the final examinations in the degree of Bachelor of Medicine, Bachelor of Surgery a student must pass the clinical examination within any course-unit. 57. The degrees of Bachelor of Medicine, Bachelor of Surgery, Bachelor of Pharmacy and Doctor of Veterinary Medicine, shall be unclassified degrees, but a student who obtains a final mark of 70% or above at the first attempt on any course -unit may be awarded a distinction in the course-unit. 58."
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p032_c03",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32,
+        "score": 0.6257,
+        "text": "The minimum Pass Mark in any course, and even in Dissertation, shall be 50%. Therefore, any student who scores less than 50% in any course shall be deemed to have failed the course. In order to be eligible for examination in a particular course, a student shall have attendedaminimumof75%ofthetotalperiodofformalinstructionsafterfive(5)weeks."
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p035_c04",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 35,
+        "score": 0.6231,
+        "text": "d) Other duties related to the conduct of academic scheduling and examinations, etc. Pass Mark and Grading 18.5 Except for Level I, B. Sc Programmes in the faculty of Basic Medical Sciences, and GSP courses, the pass mark for all courses in the College of Health Sciences and Faculty of Pharmaceutical Sciences shall be 50%. Fractional marks are to be rounded to the nearest whole number. In addition to an overall score of 50%, a candidate must also score a minimum of 50% in the clinical component of all clinical subject examinations. 18.6 Courses for Level II and higher levels are to be graded and classied as follows:"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "What attendance do I need to be allowed to write exams?",
+    "expected_sources": [
+      {
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 16
+      },
+      {
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32
+      },
+      {
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 31
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_examination_regulations_2023_p023_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 23,
+        "score": 0.6615,
+        "text": "18 1.16. For written Examination, Candidate must use only the answer script(s) or examination booklet(s) provided by the invigilator during the examination. 1.17. A candidate shall not take into the examination hall the following items: bags, programmable calculators and other electronic devices, mobile phone and other smart and AI enabled devices, books, any form of printed or written materials, audio, video and camera recordings as well as any unauthorized materials. Writing on the palms or any parts of the body, including obscure parts of the body is prohibited. 1.18. A candidate must complete and sign the attendance slip at the commencement of the examination and both the attendance slip and the answer script(s) must be submitted"
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p016_c02",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 16,
+        "score": 0.6584,
+        "text": "concerning residency, fees or other matters. At least 75% attendance is required in all classes, tutorials, laboratories, clinics, field/studio practicals/theatre training etc. to qualify to sit for semester examinations. He /She must also have fulfilled any requirement regarding attendance at or satisfactory completion of any course -work, practicals, assignments, projects or other related matters. The standards ne cessary to satisfy these requirements shall be determined from time to time by the respective Faculty Board/PAB on the rec ommendation of the appropriate"
+      },
+      {
+        "chunk_id": "unizik_general_academic_regulations_p049_c00",
+        "filename": "unizik_general_academic_regulations.pdf",
+        "page": 49,
+        "score": 0.6535,
+        "text": "41 iii. allow the students to enter the examination hall with only permissible writing materials which shall include current identity card, pens, pencils, calculators (not programmable), rulers and erasers. ii. ensure that all the seats are in order and that no pieces of papers are left on the ﬂoor. i. arrive at least thirty (30) minutes before the start of any examination and sign the Invigilators' Attendance Register. v. distribute answer booklets, and advise students to write their particulars strictly as required on those booklets and on additional sheets if used. ix. make all announcements at the start of the examination, and as much as possible shall not disturb the candidates during examinations. iv. allocate seats to students and ensure that they are well spaced out. xi."
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p017_c00",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 17,
+        "score": 0.6488,
+        "text": "6 Assessment of Performance 1.4 The overall process of assessment of a candidate’s performance in a course or programme may consist of formal examination, continuous assessment (as dened in 1.3(i) and (j)), or a combination of both, as governed by Part 12 of these Regulations. Admission into Examination 1.5 To be admitted into an examination, a student must have been registered for the relevant course, and must satisfy any University and Faculty requirements regarding attendance, performance of assignments connected with the course taught and payment of approved fees. 1.6 A student must have at least a 75% attendance record in order to be eligible to sit for an examination in a course. This provision can only be implemented if the Department is satised that proper"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "What CGPA puts a student on academic probation?",
+    "expected_sources": [
+      {
+        "filename": "unizik_general_academic_regulations.pdf",
+        "page": 40
+      },
+      {
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 14
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_examination_regulations_2023_p019_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 19,
+        "score": 0.7618,
+        "text": "14 WITHDRAWAL A student is considered withdrawn from the programme of study if: (i) He/she is absent or fails to register, without approved deferment, for four consecutive semesters. (ii) The cumulative grade point average (CGPA) falls below 1.00 in case of classified first degree programmes or 2.40 for unclassified first degree programmes, for four consecutive semesters. The student is normally placed on “Probation” first when the CGPA falls below the minimum levels stated above for two consecutive semesters for classified and unclassified degree programmes respectively. If the student remains on probation for a further two consecutive semesters, he/she is recommended to the Faculty Board /PAB and subsequently to the Senate for withdrawal."
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p014_c00",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 14,
+        "score": 0.7533,
+        "text": "3 more semesters and carrying one of the titles shown in the Part 20 of these Regulations. (o) “Incomplete grading, (I)” means the assessment of a course the formal examination of which is not written under the permission of Senate as specied in section 12.4 of these Regulations. (p) “Special Sit/Re-sit Examination” means a student who is unable to sit for an examination(s) on a valid reason or for good cause; the University Senate may at its discretion grant special sit/re-sit examination to the candidate as the case may be. (q) “Probation” means a warning status accorded a student whose CGPA is less than 1.00. The probation period is usually one academic session (two semesters) during which the student is expected to improve and raise his CGPA to at least 1.00,"
+      },
+      {
+        "chunk_id": "buk_general_exam_academic_regulations_2018_p038_c04",
+        "filename": "buk_general_exam_academic_regulations_2018.pdf",
+        "page": 38,
+        "score": 0.7149,
+        "text": "payment of a prescribed fee to the University. Each page must be individually signed and stamped. 14.6 Certicates of the award of degrees approved by the Senate shall be sealed with the Seal of the University and signed by the Vice- Chancellor and the Registrar. PART 15:PROBATION 15.1 A student whose CGPA is less than 1.00 at the end of any session shall be placed on academic probation for one session to enable him/her up-grade his CGPA to at least 1.00. Such a student shall be informed of his status in writing by the Faculty and copies of the letter should be sent to the Registrar and the Department. PART 16: WITHDRAWAL 16.1 Withdrawal from the University shall be recommended by the Faculty Boards to the Senate on any of the following grounds:"
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p010_c02",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 10,
+        "score": 0.7093,
+        "text": "Grade Points multiplied by the respective credit units for all semester to-date and dividing by the number of Credit Units completed. (xi) “Probation” means a status granted to a student whose academic performance as measured by the CGPA falls below 1.00 in the case of classified degree or below 2.40 in the case of unclassified degree at the end of any year of study. (xii) “Supplementary Examination” means an examination given to a student who on account of ill"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "expected_sources": [],
+    "retrieved": [
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p045_c02",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 45,
+        "score": 0.2716,
+        "text": "ProfessorJ.U.Umoh (June–Dec2009) ProfessorMohammadAliyu (Dec2009-Mar.2010) ProfessorAbdullahiMustapha (2010-2015) ProfessorIbrahimGarba (2015-2020) ProfessorKabirBala (2020-Date)"
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p202_c01",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 202,
+        "score": 0.257,
+        "text": "civilengineeringstudent. 17.Volkswagen (Nig.) Ltd.: best student in the subject of strengthofMaterialsoverthelast2yearsofstudy 18.West African Electrical Corporation: for the best second-yearelectricalstudent. 19.Volkswagen (Nig.) Ltd.: best student in the subject of strengthofMachineToolsover2yearsofstudy(200& 300levels). 20.Elf Nig. Ltd.: for the best overall performance over three years by a Mechanical Electrical student in the subjectofFluidMechanics. 21.NigerianIndustrialDevelopmentBankLtd.Forthebest finalyearstudentinMechanicalEngineering. 22.Adesoye and partners: for the best final year student in QuantitySurveying 23.YarosonandPartners:forthebestthirdyear(300level) Electrical Engineering student in course work and project. 24.Philips Nig. Prize: for the best final year Electrical"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2026_p108_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 108,
+        "score": 0.2512,
+        "text": "Manual for Officials of 2026 UTME 102"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p010_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 10,
+        "score": 0.2502,
+        "text": "4 Manual for Officials of 2025 UTME"
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "How much is the hostel accommodation fee at Nnamdi Azikiwe University?",
+    "expected_sources": [],
+    "retrieved": [
+      {
+        "chunk_id": "unizik_hostel_rules_p001_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 1,
+        "score": 0.6569,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 1 All students residing in the hostels of Nnamdi Azikiwe University are expected to adhere strictly to established rules, policies, and procedures to ensure a safe, orderly, and conducive living environment for all. 1. General Guidelines  Hostel accommodation is strictly reserved for duly registered students who have been officially allocated bed spaces.  Students must occupy only their assigned rooms and bed spaces at all times.  Unauthorized occupants, squatting, or subletting of bed spaces are strictly prohibited.  Residents are responsible for the proper use, care, and maintenance of hostel facilities and properties.  Any damage to hostel property may attract disciplinary action or surcharge. 2."
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p003_c00",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 3,
+        "score": 0.6177,
+        "text": "Nnamdi Azikiwe University Student Affairs Unit Hostel Rules, Policies & Guidelines 3 8. Visitors and Guest Policy  Visitors are only allowed during approved visiting hours.  All visitors must be properly identified and recorded where required.  Residents are fully responsible for the conduct of their guests.  Overnight stays by visitors are strictly prohibited unless expressly authorized. 9. Compliance and Enforcement  All residents must comply fully with these rules and policies.  Violations may result in disciplinary actions, including warnings, fines, suspension, or withdrawal of accommodation.  The University reserves the right to review and update hostel policies when necessary. 10. Additional Guidelines  Students are encouraged to foster a spirit of cooperation, respect,"
+      },
+      {
+        "chunk_id": "unizik_general_academic_regulations_p001_c00",
+        "filename": "unizik_general_academic_regulations.pdf",
+        "page": 1,
+        "score": 0.6029,
+        "text": "NNAMDI AZIKIWE UNIVERSITY GENERAL AND ACADEMIC REGULATIONS"
+      },
+      {
+        "chunk_id": "udus_students_handbook_2019_2020_p046_c00",
+        "filename": "udus_students_handbook_2019_2020.pdf",
+        "page": 46,
+        "score": 0.5797,
+        "text": "UDU, Sokoto: Revised Students' Handbook (2020/2021 Academic Session) Page 26 to provide beds. In the same vein, students are responsible for their own laundry. Returning students have to apply for accommodation at the end of each session. The tentative allocation list of all successful applicants is displayed on the notice boards at the beginning of each session. No student is actually given any allocation until he/she presents to the space allocation committee an official University receipt, which indicates full payment of fees. The lodging fee is N6,590 (for undergraduate students) and N13,090 (for post-graduate students) per bed space per session while hostel maintenance fees for undergraduate and postgraduate students respectively is as determined by the University and payable by"
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "What is the tuition fee for postgraduate students at the University of Ilorin?",
+    "expected_sources": [],
+    "retrieved": [
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p009_c01",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 9,
+        "score": 0.6239,
+        "text": "University of Ilorin. The handbook is a compendium which directs and guide both students and supervisorsonwhat,howwhenandwhereofpostgraduateprogrammesintheUniversity. Thishandbookisadouble-edgedswordthatpresentsalltheavailableapprovedmodeofoperations of the Postgraduate School in relation to postgraduate programs, including; generic time line, admission procedures, the rights of students and those of teachers and examinations both written and oral. The other edge presents guidelines for writing theses and dissertations and other guides toward timely completion of programmes. In the history of postgraduate school, University of Ilorin,thisisthefirsttimeacompendiumofthisnatureisdeveloped. The need for the book is in keeping with the best practice in institution of higher learning having"
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p012_c01",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 12,
+        "score": 0.5697,
+        "text": "geographical and cultural confluence of the North and South and can be described as a gatewaycity. The University commenced as an affiliated College of the University of Ibadan in September 1975 at the Mini Campus. Following an entrance examination, 200 foundation students were admitted into residence on Saturday, October 23, 1975 and academic activities commenced on Monday, October 25, 1975 with the foundation Faculties of Arts, Education and Science. On October 1, 1977, the University College Ilorin, attained a full autonomousstatusofaUniversityandhassincethenbeen developingbyleaps andbounds. The student population of 200 in 1975 had increased to more than 41,000 in the 2019/2020 academicsession.UptillJanuary1982,theUniversitycarriedoutitsacademicprogrammes,"
+      },
+      {
+        "chunk_id": "unilorin_postgraduate_handbook_p032_c02",
+        "filename": "unilorin_postgraduate_handbook.pdf",
+        "page": 32,
+        "score": 0.5628,
+        "text": "Ilorin.(AppendixA). Examinations shall be done at the end of each semester in the academic calendar. Each course shall, therefore, normally be completed and examined at the end of the semester in whichitisoffered. Continuous Assessment shall be through essays, tests, term papers, tutorial exercises, quizzes and take-home assessments; and its scores shall not be more than 30% of the final marks for courses which are primarily theoretical. It could be 40% for courses that have practical elements. The total score obtainable for every course shall be 100%; comprising 30%(or40%)ofContinuousAssessmentand70%or60%forFinalExamination. The minimum Pass Mark in any course, and even in Dissertation, shall be 50%. Therefore,"
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p070_c01",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 70,
+        "score": 0.5551,
+        "text": "University and establishing mutually beneficial relationships with donors and partner organizations. It undertakes such activities as fundraising and sourcing support for the development of ABU by alumni and other stakeholders of the University. POSTGRADUATE SCHOOL (Established in accordance with Statute 21) The concept of a Postgraduate School for Ahmadu Bello University was first mooted in 1976 – to cater for a comprehensive postgraduate studies programme and increase postgraduateenrolment toalevelof25%oftotalenrolmentfor degree programmes. The School was finally established in 1980 and it presently coordinates all the Postgraduate programmes of the University at the Master, Doctorate and PostgraduateDiplomalevels."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "What is the UTME registration fee for 2027?",
+    "expected_sources": [],
+    "retrieved": [
+      {
+        "chunk_id": "jamb_utme_manual_2026_p136_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 136,
+        "score": 0.7074,
+        "text": "Manual for Officials of 2026 UTME 130 5.7 PROCEDURE FOR REGISTRATION AT THE 10 FOREIGN CENTRES: 5.7.1 The Board conducts registration and UTME in the following cities: Abidjan, Accra, Banjul, Beau, Cotonou, Jeddah, Johannesburg, London, Malabo, and Ouagadougou. The Nigerian Mission (Embassy) in each of the cities (countries) can be contacted for guidance on the registration and examination. 5.7.2 Registration fee for candidates from the 10 foreign countries is Thirty United States Dollars ($30) in each of the 10 (ten) countries or its local equivalent 5.8 DONATION OF FREE APPLICATION DOCUMENTS Any person or organisation that wishes to distribute free application documents to prospective applicants should contact the Board on+2348027641663 OR e-mail:"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p127_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 127,
+        "score": 0.6563,
+        "text": "Manual for Officials of 2025 UTME 121 (g) Candidates with biometric challenges would sit the examination in Abuja on the last day of the national examination calendar. 6.0 DATES AND VENUE FOR THE 2025 UNIFIED TERTIARY MATRICULATION EXAMINATION 6.1 The 2025 UTME will commence on Friday, 25 th April, 2025, and end on Monday, 5 th May, 2025, and at all the eight foreign centres. 6.2 The venue of the examination will be at ANY centre in the candidate's chosen examination town. 7.0 REGISTRATION FEE/PROCUREMENT OF REGISTRATION e-PINs 7.1 To promote inclusivity, the Board implements a policy of free charges for registration of the blind, the deaf and those on wheel chairs who possess the required 5 credits at the point of registration."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p120_c02",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 120,
+        "score": 0.6467,
+        "text": "80% in each of UTME/A'LEVEL, PUTME, SSC and in the exceptional candidate examination. 1.4 MOCK FOR TRIAL-TESTING ONLY 1.4.1 Underage individuals who are not qualified by age or do no t desire admission for 2025/6 can register for Mock only on payment of N3,500 for the reading text, CBT centre registration, Mock examination and bank charges. 1.5 Once a candidate completes 2025 registration with JAMB with the biodata supplied by NIMC subsequent changes of biodata would not be effected by JAMB for the 2025 admission. FEES AND CHARGES 1.5.1 The Board will maintain its cashless registration system for the 2025 UTME/DE registration in order to prevent the exploitation of candidates. CHECK YOUR DATA WITH NIMC TO ENSURE YOUR DETAILS AGREE WITH YOUR CLAIMS BEFORE"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p119_c02",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 119,
+        "score": 0.6424,
+        "text": "g. For candidates of year 2016 and pre 2016, after registration, the centre is expected to give them both registration slip and an Indemnity form. h. The service charge for this type of registration is N700. 3. Candidates for 2025 UTME/DE registration are to complete a registration template: a. Registration template must be scanned and uploaded. b. The original registration template MUST BE GIVEN BACK TO THE CANDIDATE AND NOT KEPT BY ANY CENTRE. 4. The following rules must be complied with by every JAMB office and approved CBT centres: a. No centre should write down or copy any vital data of any candidate such as card details, profile code, password, GSM, or registration number. b. Centres are to collect not more than N 700 service charge for OTHER REGISTRATIONS"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Why does Ahmadu Bello University require 90% attendance to sit semester examinations?",
+    "expected_sources": [
+      {
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 16
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "abu_examination_regulations_2023_p002_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 2,
+        "score": 0.7255,
+        "text": "ii AHMADU BELLO UNIVERSITY, ZARIA EXAMINATION MANAGEMENT/EXAMINATION REGULATIONS 2023"
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p007_c02",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 7,
+        "score": 0.7045,
+        "text": "The first edition of the Regulations Governing Examinations and Examination Management in Ahmadu Bello University was published in 1960s. There’s no doubt that regular revision of the document is necessary to respond to challenges being posed by changing realities and unfolding developments in both our society and our University. In keeping to the noble tradition of reviewing this document regularly, this 2023 edition of the “Examination Regulations/Management” for our great University was produced, approved, and issued. The University is committed to upholding this noble tradition of regular review and shall continue to carry it out as often as is required, such that the “Examination Regulations/Management” would at any material time be relevant, appropriate, and effective."
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p007_c01",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 7,
+        "score": 0.6976,
+        "text": "Staff and students are expected to acquaint themselves with and abide by relevant sections of this document as appropriate. These regulations and guidelines cover among others, types and modes of examinations approved by the University Senate, methods of assessment, general university examination regulations, preparation of examination papers, appointment of internal and external examiners, conduct of examinations, students conduct and misconducts during examination and possible sanctions, determination of examination results by Faculty Board of Examiners, Faculty Boards and Senate, release of examination results etc. The first edition of the Regulations Governing Examinations and Examination Management in Ahmadu Bello University was published in 1960s."
+      },
+      {
+        "chunk_id": "abu_examination_regulations_2023_p007_c00",
+        "filename": "abu_examination_regulations_2023.pdf",
+        "page": 7,
+        "score": 0.6627,
+        "text": "2 PREAMBLE Ahmadu Bello University is a first -generation University in Nigeria and a premier university in Northern Nigeria, which has grown overtime from a modest beginning to become the largest university in Africa south of the Sahara. The University places topmost priority on the sanctity of its examinations and has therefore established regulations, policies, procedures, and guidelines governing assessment, Examination Regulations/Management based on its core values, code of conduct as well as principles of best practice to safeguard the integrity of its examinations and credibility of its certificates. Staff and students are expected to acquaint themselves with and abide by relevant sections of this document as appropriate."
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Why did JAMB extend the 2026 UTME duration to three hours?",
+    "expected_sources": [
+      {
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 8
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "jamb_utme_manual_2025_p021_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 21,
+        "score": 0.5443,
+        "text": "15 Manual for Officials of 2025 UTME 3.2 JAMB Technical Officer JAMB Technical Officer is an officer assigned to perform technical duties in the conduct of the examination. Duties of JAMB Technical Officer The duties of the Technical Officer are divided into three (3) parts: A. Pre-Examination Duties The Technical Officer should: i. check the functionality of the equipment for the examination ii. ensure that the IP addresses are statically assigned to each terminal iii. ensure that the recommended JAMB browser version is installed and up to date iv. set up the terminals and ensure communication with the Server v. attend a briefing session for Examination Officials at the centre vi. run JAMB Network Test during Mock and a day before the main examination vii."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2025_p126_c00",
+        "filename": "jamb_utme_manual_2025.pdf",
+        "page": 126,
+        "score": 0.5256,
+        "text": "Manual for Officials of 2025 UTME 120 d) Upload relevant certificates, if no result is being awaited. e) Provide UTME subjects and choice of examination town(s) for the optional Mock examination and Unified Tertiary Matriculation Examination (UTME) (actual examination). f) Review entries and confirm correctness, and g) Print Registration Slip USING BIOMETRIC AUTHENTICATION to confirm valid fingerprint (UTME/DE). Note that authentication with your fingerprint removes blames of error from CBT centres. Candidates are to check before confirming with their fingerprint. 5.12 Candidates, who are awaiting results, should supply (upload) the results online on the JAMB portal as soon as they are available. No recommendations from any Institution will be considered by JAMB"
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2026_p021_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 21,
+        "score": 0.5086,
+        "text": "15 Manual for Officials of 2026 UTME 3.2 JAMB Technical Officer JAMB Technical Officer is an officer assigned to perform technical duties in the conduct of the examination. Duties of JAMB Technical Officer The duties of the Technical Officer are divided into three (3) parts: A. Pre-Examination Duties The Technical Officer should: i. Check the functionality of the equipment for the examination. ii. Ensure that the IP addresses are statically assigned to each terminal. iii. Ensure that the recommended JAMB browser version is installed and up to date. iv. Set up the terminals and ensure communication with the Server. v. Attend a briefing session for Examination Officials at the centre. vi. Run JAMB Network Test during Mock and a day before the main examination. vii."
+      },
+      {
+        "chunk_id": "jamb_utme_manual_2026_p138_c00",
+        "filename": "jamb_utme_manual_2026.pdf",
+        "page": 138,
+        "score": 0.4976,
+        "text": "Manual for Officials of 2026 UTME 132 b) Candidates with biometric abnormalities can only register and take examination at the Abuja Headquarters of the Board. The Board will facilitate their travels. 6.0 D AT E S A N D V E N U E F O R T H E 2 0 2 6 U N I F I E D T E R T I A R Y MATRICULATION EXAMINATION 6.1 The 2026 UTME will commence on Thursday, 16th April, 2026 and end on Saturday, 25th April, 2026. 6.2 The venue of the examination will be at ANY Centre in the candidate's chosen examination town. JAMB DOES NOT POST ANY CANDIDATE TO ANY EXAMINATION TOWN (OR GROUP OF TOWNS) OTHER THAN THE ONE CHOSEN BY THE CANDIDATE AT THE POINT OF REGISTRATION. REGISTER ON TIME SINCE YOUR PREFERRED TOWN MAY NO LONGER HAVE SPACE FOR YOU. NOTE THAT THE CHOICE OF A GROUP OF TOWNS IMPLIES THA T"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "Which cooking appliances does UNIZIK approve for use inside hostel rooms?",
+    "expected_sources": [
+      {
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2
+      }
+    ],
+    "retrieved": [
+      {
+        "chunk_id": "udus_students_handbook_2019_2020_p109_c00",
+        "filename": "udus_students_handbook_2019_2020.pdf",
+        "page": 109,
+        "score": 0.6215,
+        "text": "UDU, Sokoto: Revised Students' Handbook (2020/2021 Academic Session) Page 89 6.4 USE OF APPLIANCES 1) All electrical appliances and other personal effects such as beddings to be used in the hostels must be registered with the Hall Administrator and Security Division. The University will confiscate appliances not registered. 2) Gas cookers, A ir conditioners, refrigerators, hot plates/rings and other electrical appliances must not be used in hostel without approval of the Dean of Student Affairs . Contravention of this regulation sh all attract seizure and eventual forfeiture of the prohibited item. Cooking stoves and other acceptable cooking devices as approved by the University must not be used in rooms, toilets or stores. 3) Use of radio, musical set, etc. is allowed but the applian ces"
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p002_c01",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2,
+        "score": 0.5483,
+        "text": " Residents must maintain a clean and hygienic living environment at all times.  Waste must be disposed of in designated bins and areas.  Students are expected to participate in routine sanitation exercises where applicable.  Proper use of shared facilities such as bathrooms, kitchens (if provided), and common areas is required. 6. Maintenance and Facility Management  All damages or faults (e.g., plumbing, electricity, furniture) should be reported promptly.  Students must not carry out unauthorized repairs or alterations to hostel facilities.  Regular inspections may be conducted to ensure compliance and proper usage of facilities. 7. Prohibited Activities  Use of unauthorized electrical appliances is not permitted.  Cooking in rooms is prohibited except in designated areas (where"
+      },
+      {
+        "chunk_id": "unizik_hostel_rules_p002_c02",
+        "filename": "unizik_hostel_rules.pdf",
+        "page": 2,
+        "score": 0.5143,
+        "text": " Use of unauthorized electrical appliances is not permitted.  Cooking in rooms is prohibited except in designated areas (where available).  Possession or use of dangerous weapons, illegal substances, or harmful materials is strictly forbidden.  Activities such as gambling, cultism, or any unlawful behavior are not allowed.  Any action that may endanger safety, disrupt order, or damage property is prohibited."
+      },
+      {
+        "chunk_id": "abu_student_handbook_2023_2024_p130_c00",
+        "filename": "abu_student_handbook_2023_2024.pdf",
+        "page": 130,
+        "score": 0.5071,
+        "text": "ABU Undergraduate Student Handbook 2023/2024 Session 91 (iii) Electrical Appliances, Fire and Fire Prevention (a) All incidence of fire will be investigated by the Security Department and reported to the Registrar and the Committee on security. Both National Fire Codes and the University’s Regulations will cover thecriminaland/ordisciplinaryactiontobetaken. (b) Candles are usually not allowed in student’s rooms when there is electric power supply. Even when thereisnoelectricityandcandlesaresupplied,great care must be taken to avoid any possible fire outbreak. (c) The use of certain electrical appliances may cause electrical faults and this may result in fire hazards. Therefore, under no circumstances, must electrical appliances such as electric cookers, toasters, grills,"
+      }
+    ]
+  }
+]
